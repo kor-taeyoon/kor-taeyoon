@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kor-taeyoon)](https://github.com/kor-taeyoon)
+
+
+** C/C++, JAVA, Python, Assembly(risc), Arduino
+
