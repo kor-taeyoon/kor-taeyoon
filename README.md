@@ -1,5 +1,7 @@
 ### ⚡ Traditional Engineering, Junior ⚡
 
+[![HitCount](http://hits.dwyl.com/kor-taeyoon/{project}.svg)](http://hits.dwyl.com/kor-taeyoon/{project})
+
 <!--
 **kor-taeyoon/kor-taeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
