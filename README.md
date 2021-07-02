@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kor-taeyoon)](https://github.com/kor-taeyoon)
 
+## 방학 계획
+
+* 매일 일지 작성하기
+
+
+
+
 
 #### C/C++, JAVA, Python, MATLAB, Assembly(ARM, MIPS), Arduino
 
