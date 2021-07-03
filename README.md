@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 ## 방학 계획
 
-* 매일 일지 작성하기
+* 매일 학습 일지 작성하기
+* 의미있는 커밋하기
 
 
 
