@@ -16,20 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kor-taeyoon&show_icons=true&theme=dracula)](https://github.com/kor-taeyoon)
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kor-taeyoon)](https://github.com/kor-taeyoon)
 
-## 방학 계획
-
-* 매일 학습 일지 작성하기
-* 의미있는 커밋하기
 
 
 
-
-
-#### C/C++, JAVA, Python, MATLAB, Assembly(ARM, MIPS), Arduino
+#### C/C++, Assembly(ARM, MIPS), JAVA, Python
 
